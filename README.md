@@ -19,12 +19,11 @@ Estamos sempre em busca de colaboradores que possam ajudar a melhorar e expandir
 2. 📝 **Documentação**: Melhorias na documentação ou traduções são sempre bem-vindas.
 3. 📣 **Divulgação**: Compartilhe nosso projeto em suas redes sociais e ajude a aumentar a conscientização sobre a rica cultura do Catete.
 4. 🎨 **Mídias**: Se você tem habilidades em design, vídeo ou outras mídias, sua ajuda será muito apreciada para melhorar a visibilidade do projeto.
-5. 💰 **Financiamento**: Se você deseja apoiar o projeto financeiramente, entre em contato conosco ou doe diretamente pelo [picpay](adicionar link picapay).
+5. 💰 **Financiamento**: Se você deseja apoiar o projeto financeiramente, entre em contato conosco.
 6. 🤝 **Parcerias**: Para propostas de parceria, entre em contato diretamente via [email](jvgrille@gmail.com).
 
 ## 🌐 Redes Sociais
 
-- 🐦 **[Twitter](inserirlink)**
 - 📸 **[Instagram](https://www.instagram.com/kttzoo.rj/)**
 
 ## 🙌 Contribuidores
