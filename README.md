@@ -1,6 +1,6 @@
 # 🎭 Tradutor TTK
 
-O Tradutor TTK é a semente do que hoje é a plataforma KTTzoo, uma iniciativa dedicada à preservação e divulgação da rica cultura do Catete. Esta versão rudimentar, criada em Python, apresenta um executável simples que traduz o Português-BR para o Gualin do TTK, uma língua distinta originada no bairro do Catete durante o período da ditadura militar.
+O Tradutor TTK é a semente do que hoje é a, ainda não lançada, plataforma KTTzoo, uma iniciativa dedicada à preservação e divulgação da rica cultura do Catete. Esta versão rudimentar, criada em Python, apresenta um executável simples que traduz o Português-BR para o Gualin do TTK, uma língua distinta originada no bairro do Catete durante o período da ditadura militar.
 
 ## 📜 Características
 - Executável Simples: Esta versão legada vem como um executável que funciona exclusivamente em sistemas Windows.
